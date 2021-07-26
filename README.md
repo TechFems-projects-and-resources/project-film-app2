@@ -1,4 +1,4 @@
-### Code for the full version of the React film app project
+## Code for the full version of the React film app project
 
 This is a private repo because we want our students to write the code themselves as much as possible. Only the coaches have access to private repos in this GitHub organisation.
 
