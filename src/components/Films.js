@@ -16,6 +16,7 @@ function Films() {
     getFilms();
   }, []);
 
+
   return (
     <div>
       <Search setSearch={setSearch} />
